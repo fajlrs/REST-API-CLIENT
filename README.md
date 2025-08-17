@@ -117,4 +117,5 @@ View JSON responses in the console.
 
 
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d02a26b2-7471-47a0-be82-7a5aaf879117" />
 
